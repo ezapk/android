@@ -22,6 +22,8 @@
   <project path="development" name="CyanogenMod/android_development" remote="github" />
   <project path="device/advent/vega" name="CyanogenMod/android_device_advent_vega" remote="github" />
   <project path="device/common" name="device/common" />
+  <project path="device/huawei/ascend" name="playfulgod/android_device_huawei_ascend" remote="github" />
+  <project path="device/huawei/ascend2" name="playfulgod/device_huawei_ascend2" remote="github" />
   <project path="device/bn/encore" name="CyanogenMod/android_device_bn_encore" remote="github" />
   <project path="device/commtiva/z71" name="CyanogenMod/android_device_commtiva_z71" remote="github" />
   <project path="device/dell/streak7" name="CyanogenMod/android_device_dell_streak7" remote="github" />
@@ -60,7 +62,7 @@
   <project path="device/lge/p990" name="CyanogenMod/android_device_lge_p990" remote="github" />
   <project path="device/lge/p999" name="CyanogenMod/android_device_lge_p999" remote="github" />
   <project path="device/lge/star-common" name="CyanogenMod/android_device_lge_star-common" remote="github" />
-  <project path="device/lge/thunderc" name="CyanogenMod/android_device_lge_thunderc" remote="github" />
+  <project path="device/lge/thunderc" name="playfulgod/android_device_lge_thunderc" remote="github" />
   <project path="device/lge/thunderg" name="CyanogenMod/android_device_lge_thunderg" remote="github" />
   <project path="device/malata/smb-common" name="CyanogenMod/android_device_malata_smb-common" remote="github" />
   <project path="device/malata/smb_a1002" name="CyanogenMod/android_device_malata_smb_a1002" remote="github" />
