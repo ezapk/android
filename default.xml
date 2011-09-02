@@ -27,7 +27,7 @@
   <project path="device/common" name="device/common" />
   <project path="device/huawei/ascend" name="android_device_huawei_ascend" remote="playfulgod" />
   <project path="device/huawei/ascend2" name="device_huawei_ascend2" remote="playfulgod" />
-  <project path="device/lge/thunderc" name="playfulgod/android_device_lge_thunderc" remote="github" />
+  <project path="device/lge/thunderc" name="device_lge_thunderc" remote="playfulgod" />
   <project path="device/motorola/shadow" name="CyanogenMod/android_device_motorola_shadow" remote="github" />
   <project path="device/sample" name="device/sample" />
   <project path="external/alsa-lib" name="CyanogenMod/android_external_alsa-lib" remote="github" />
