@@ -225,6 +225,6 @@
   <project path="vendor/tmobile/themes/Cyanbread" name="CyanogenMod/android_vendor_tmobile_themes_Cyanbread" remote="github" />
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" remote="github" />
 
-  <project path="android" name="android" remote="playfulgod" />
+  <project path="android" name="android/playfulgod" />
 
 </manifest>
