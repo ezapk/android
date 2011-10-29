@@ -28,7 +28,7 @@
   <project path="device/huawei/ascend2" name="playfulgod/android_device_huawei_ascend2" />
   <project path="device/huawei/m835" name="playfulgod/android_device_huawei_m835" />
   <project path="device/micromax/a70" name="playfulgod/android_device_micromax_a70" />
-  <project path="device/lge/thunderc" name="playfulgod/android_device_lge_thunderc" />
+  <project path="device/lge/lg690" name="playfulgod/android_device_lge_lg690" />
   <project path="device/motorola/common" name="CyanogenMod/android_device_motorola_common" />
   <project path="device/motorola/shadow" name="CyanogenMod/android_device_motorola_shadow" />
   <project path="external/alsa-lib" name="CyanogenMod/android_external_alsa-lib" />
