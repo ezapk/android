@@ -11,7 +11,7 @@
   <default revision="gingerbread"
            remote="github" />
      
-  <remote  name="playfulgod"
+  <remote  name="ShunYea"
            fetch="git://github.com/" />
 
   <project path="build" name="CyanogenMod/android_build">
